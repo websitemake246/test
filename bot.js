@@ -2,7 +2,7 @@ const { Telegraf } = require('telegraf');
 
 const axios = require('axios');
 
-const BOT_TOKEN = '7727625787:AAFripHL8ZekXTLeIaiQM1ZDa2Ke7mbgxSc';
+const BOT_TOKEN = '8030113226:AAEkq5SOpY57jGm2m3tsSyhYr30cwcICRcI';
 
 const ADMINS = ['7469801870', '6619154186']; // Both admin IDs
 
